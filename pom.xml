@@ -25,7 +25,7 @@
 		<module>utilities/tools.descartes.teastore.registryclient</module>
 		<module>utilities/tools.descartes.teastore.dockermemoryconfigurator</module>
 		<module>./utilities/tools.descartes.teastore.dockerbase</module>
-		<module>services/tools.descartes.teastore.image</module>
+		<!--<module>services/tools.descartes.teastore.image</module> -->
 		<module>services/tools.descartes.teastore.persistence</module>
 		<module>services/tools.descartes.teastore.recommender</module>
 		<module>services/tools.descartes.teastore.registry</module>
